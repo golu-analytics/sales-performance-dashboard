@@ -33,7 +33,9 @@ An interactive **Sales Performance Dashboard** built to analyze sales metrics, g
 ---
 
 ## 📸 Dashboard Preview
-![Sales Performance Dashboard](./dashboard_preview.png)
+![Sales Performance Dashboard]<img width="1054" height="588" alt="Screenshot 2026-11-12 231633" src="https://github.com/user-attachments/assets/8c32df9d-94e7-4727-b557-1a0ca9e2306e" />
+
+
 
 ---
 
